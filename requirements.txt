@@ -1,6 +1,6 @@
 streamlit
 audio_recorder_streamlit
-base64
+
 whisper
 os
 langchain_groq
